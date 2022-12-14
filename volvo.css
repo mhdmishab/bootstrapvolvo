@@ -163,13 +163,16 @@
 
     }
 }
-@media(max-widh:967px){
-    .ratio{
+/* @media(max-widh:389px){
+    .footer{
+        display: flex;
+        align-items: center;
+        justify-content: center;
 
     }
     
 
-}
+} */
 
 
 
